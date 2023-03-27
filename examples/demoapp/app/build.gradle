@@ -48,7 +48,7 @@ dependencies {
 
     // Support
     implementation "androidx.appcompat:appcompat:$androidx_appcompat_version"
-    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.google.android.material:material:1.8.0'
 
     implementation project(':speech')
 }

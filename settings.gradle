@@ -1,2 +1,2 @@
 include ':speech'
-//include 'examples:demoapp'
+include 'examples:demoapp'
